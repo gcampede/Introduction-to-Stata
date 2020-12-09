@@ -1,0 +1,22 @@
+The two datasets contained in this folder are the ones used in the practical exercises. Data come from multiple sources: Global Terrorism Database, polity IVd, World Bank,  Association of Religion Data Archives, 
+World  Health Organization. When possible, data from 2015 were retrieved. Each dataset shares three variables: an alphabetic code for each country, the country name and the year of each measurements. Specific variables are listed below.
+
+### Data 1 (list of variables)
+   1. attacks (n of attacks in 2015)
+   2. killed (n of deaths in 2015)
+   3. gdp (Gross domestic product)
+   4. HDI (Human Development Index, an aggregate measure of decent standard of living, schooling and education and life expectancy)
+   5. internet (% of the population that used internet in the last 3 months) 
+   6. literacy (% of the population over 15 years old that can read and write)
+   7. median_age (Median age of country population)
+   8. dummy_attacks_2014 (was there an attack in 2014?)
+
+### Data 2 (list of variables)
+   1. female (% of female over the total population)
+   2. frag (Is the country politically fragmented? e.g. minorities fighting, civil wars, etc)
+   3. convicted_terr (number of convicted terrorists in the prisons of the country)
+   4. open_election (are the political elections open to the people?)
+   5. fdi (Foreign Direct Investment, percentage of the GDP)
+   6. f_lit (% of literacy among women in the country)
+   7. m_lit (% of literacy among men in the country)
+   8. lit_delta (difference between % of male and female literacy)
